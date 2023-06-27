@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/Midsemprac/bin/Debug/netcoreapp3.1/Midsemprac.deps.json
+/Users/michaelkhanda/Desktop/Midsemprac/bin/Debug/netcoreapp3.1/Midsemprac.runtimeconfig.json
+/Users/michaelkhanda/Desktop/Midsemprac/bin/Debug/netcoreapp3.1/Midsemprac.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/Midsemprac/bin/Debug/netcoreapp3.1/Midsemprac.dll
+/Users/michaelkhanda/Desktop/Midsemprac/bin/Debug/netcoreapp3.1/Midsemprac.pdb
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.dll
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.pdb
+/Users/michaelkhanda/Desktop/Midsemprac/obj/Debug/netcoreapp3.1/Midsemprac.genruntimeconfig.cache
